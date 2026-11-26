@@ -1,0 +1,5159 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-26T08:03:42.183Z",
+  "query": {
+    "country": "us",
+    "countryName": "United States",
+    "categoryId": "6013",
+    "categoryName": "Health & Fitness",
+    "chartType": "free",
+    "view": "gainers",
+    "limit": 25,
+    "minMove": null,
+    "driverFilter": null
+  },
+  "snapshot": {
+    "day": "2026-11-26",
+    "previousDay": "2026-11-25",
+    "fetchedAt": "2026-11-26T00:53:50.119Z",
+    "depth": 100,
+    "stale": false,
+    "weeks": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23"
+    ],
+    "keywordsObservedAt": "2026-11-26T01:27:22.906Z",
+    "organicViewsCountedAt": "2026-11-26T05:01:53.991Z"
+  },
+  "chartSummary": {
+    "trackedApps": 100,
+    "rankedApps": 100,
+    "gainers": 41,
+    "losers": 44,
+    "newEntrants": 3,
+    "newReleases": 1
+  },
+  "totals": {
+    "totalBeforeFilter": 25,
+    "shown": 25,
+    "withLiveAds": 6,
+    "rampingAds": 0,
+    "withOrganic": 3,
+    "withKeywords": 25,
+    "uncollectedPaid": 7,
+    "driverCounts": {
+      "multi-channel": 6,
+      "paid-push": 0,
+      "organic-surge": 0,
+      "aso-moat": 18,
+      "uncollected": 1,
+      "unexplained": 0
+    }
+  },
+  "items": [
+    {
+      "storeId": "884923678",
+      "name": "InBody",
+      "developer": "InBody Co., Ltd.",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/0c/32/8e0c3200-6e2f-ff63-0ebd-37f72b466554/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/inbody/id884923678?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2014-06-29",
+      "price": 0,
+      "currency": "USD",
+      "rating": 3.96,
+      "ratingCount": 1950,
+      "rank": 58,
+      "previousRank": 86,
+      "movement": 28,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-10-28",
+          "rank": 85
+        },
+        {
+          "day": "2026-10-29",
+          "rank": 65
+        },
+        {
+          "day": "2026-10-30",
+          "rank": 63
+        },
+        {
+          "day": "2026-10-31",
+          "rank": 57
+        },
+        {
+          "day": "2026-11-01",
+          "rank": 63
+        },
+        {
+          "day": "2026-11-05",
+          "rank": 56
+        },
+        {
+          "day": "2026-11-06",
+          "rank": 56
+        },
+        {
+          "day": "2026-11-07",
+          "rank": 58
+        },
+        {
+          "day": "2026-11-10",
+          "rank": 84
+        },
+        {
+          "day": "2026-11-11",
+          "rank": 67
+        },
+        {
+          "day": "2026-11-12",
+          "rank": 58
+        },
+        {
+          "day": "2026-11-14",
+          "rank": 61
+        },
+        {
+          "day": "2026-11-18",
+          "rank": 72
+        },
+        {
+          "day": "2026-11-19",
+          "rank": 62
+        },
+        {
+          "day": "2026-11-20",
+          "rank": 64
+        },
+        {
+          "day": "2026-11-22",
+          "rank": 61
+        },
+        {
+          "day": "2026-11-24",
+          "rank": 90
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 86
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 58
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 68000,
+          "mid": 130000,
+          "high": 260000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "below_floor",
+          "ceiling": 5000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "aso-moat",
+      "driverLabel": "ASO search moat",
+      "channels": [
+        "aso"
+      ],
+      "paidStatus": {
+        "state": "none_found",
+        "freshness": "fresh",
+        "lastCollectedAt": "2026-11-24T22:23:46.833Z"
+      },
+      "paidMomentum": {
+        "active": false,
+        "ramping": false,
+        "dominantFormat": null,
+        "webSharePct": null
+      },
+      "paid": null,
+      "organic": null,
+      "keywords": {
+        "ranked": 1408,
+        "top1": 27,
+        "top3": 168,
+        "top10": 564,
+        "top50": 1150,
+        "best": {
+          "query": "inbody",
+          "position": 1,
+          "popularity": 53,
+          "popularityEstimate": null
+        },
+        "top": [
+          {
+            "query": "inbody",
+            "position": 1,
+            "popularity": 53,
+            "popularityEstimate": null
+          },
+          {
+            "query": "인바디",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "high",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:04:35.252Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "body comp",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:29:49.310Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "bodyscan",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:29:49.310Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "i-body",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": null
+          }
+        ]
+      }
+    },
+    {
+      "storeId": "938497148",
+      "name": "VSP Vision Care",
+      "developer": "VSP Global",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/4c/b3/984cb308-1b69-5581-45c9-730648c091ff/AppIcon-0-0-1x_U007epad-0-1-85-220.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/vsp-vision-care/id938497148?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2015-02-11",
+      "price": 0,
+      "currency": "USD",
+      "rating": 4.67,
+      "ratingCount": 52,
+      "rank": 70,
+      "previousRank": 92,
+      "movement": 22,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-10-28",
+          "rank": 83
+        },
+        {
+          "day": "2026-10-29",
+          "rank": 79
+        },
+        {
+          "day": "2026-10-30",
+          "rank": 74
+        },
+        {
+          "day": "2026-10-31",
+          "rank": 82
+        },
+        {
+          "day": "2026-11-05",
+          "rank": 70
+        },
+        {
+          "day": "2026-11-06",
+          "rank": 76
+        },
+        {
+          "day": "2026-11-07",
+          "rank": 52
+        },
+        {
+          "day": "2026-11-10",
+          "rank": 82
+        },
+        {
+          "day": "2026-11-11",
+          "rank": 74
+        },
+        {
+          "day": "2026-11-12",
+          "rank": 66
+        },
+        {
+          "day": "2026-11-14",
+          "rank": 74
+        },
+        {
+          "day": "2026-11-18",
+          "rank": 74
+        },
+        {
+          "day": "2026-11-19",
+          "rank": 70
+        },
+        {
+          "day": "2026-11-20",
+          "rank": 78
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 92
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 70
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 11000,
+          "mid": 28000,
+          "high": 76000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "below_floor",
+          "ceiling": 5000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "aso-moat",
+      "driverLabel": "ASO search moat",
+      "channels": [
+        "aso"
+      ],
+      "paidStatus": {
+        "state": "uncollected",
+        "freshness": "never",
+        "lastCollectedAt": null
+      },
+      "paidMomentum": {
+        "active": false,
+        "ramping": false,
+        "dominantFormat": null,
+        "webSharePct": null
+      },
+      "paid": null,
+      "organic": null,
+      "keywords": {
+        "ranked": 1410,
+        "top1": 23,
+        "top3": 260,
+        "top10": 689,
+        "top50": 1129,
+        "best": {
+          "query": "vsp vision care",
+          "position": 1,
+          "popularity": 53,
+          "popularityEstimate": null
+        },
+        "top": [
+          {
+            "query": "vsp vision care",
+            "position": 1,
+            "popularity": 53,
+            "popularityEstimate": null
+          },
+          {
+            "query": "vsp",
+            "position": 1,
+            "popularity": 48,
+            "popularityEstimate": null
+          },
+          {
+            "query": "eyeconic",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-23T07:22:31.545Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "eyeguide vision",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": null
+          },
+          {
+            "query": "eyemart express",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-23T07:22:31.545Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "storeId": "6446033161",
+      "name": "Fullscript",
+      "developer": "HealthWave Inc.",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/86/ea/c386ea77-ef16-593b-2fa1-1c5b6f7d64d6/ios-liquid-0-0-1x_U007ephone-0-1-sRGB-85-220.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/fullscript/id6446033161?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2023-04-20",
+      "price": 0,
+      "currency": "USD",
+      "rating": 4.92,
+      "ratingCount": 123834,
+      "rank": 77,
+      "previousRank": 97,
+      "movement": 20,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-10-28",
+          "rank": 76
+        },
+        {
+          "day": "2026-10-29",
+          "rank": 63
+        },
+        {
+          "day": "2026-10-30",
+          "rank": 65
+        },
+        {
+          "day": "2026-10-31",
+          "rank": 65
+        },
+        {
+          "day": "2026-11-01",
+          "rank": 92
+        },
+        {
+          "day": "2026-11-05",
+          "rank": 79
+        },
+        {
+          "day": "2026-11-06",
+          "rank": 75
+        },
+        {
+          "day": "2026-11-07",
+          "rank": 73
+        },
+        {
+          "day": "2026-11-11",
+          "rank": 85
+        },
+        {
+          "day": "2026-11-12",
+          "rank": 74
+        },
+        {
+          "day": "2026-11-14",
+          "rank": 75
+        },
+        {
+          "day": "2026-11-18",
+          "rank": 90
+        },
+        {
+          "day": "2026-11-19",
+          "rank": 71
+        },
+        {
+          "day": "2026-11-20",
+          "rank": 70
+        },
+        {
+          "day": "2026-11-22",
+          "rank": 97
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 97
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 77
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 22000,
+          "mid": 43000,
+          "high": 85000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "below_floor",
+          "ceiling": 5000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "multi-channel",
+      "driverLabel": "Multi-channel",
+      "channels": [
+        "paid",
+        "aso"
+      ],
+      "paidStatus": {
+        "state": "active",
+        "freshness": "stale",
+        "lastCollectedAt": "2026-10-12T20:19:38.146Z"
+      },
+      "paidMomentum": {
+        "active": true,
+        "ramping": false,
+        "dominantFormat": "dynamic",
+        "webSharePct": 100
+      },
+      "paid": {
+        "totalAds": 185,
+        "liveAds": 147,
+        "startedLast7Days": 0,
+        "medianDaysLive": 49,
+        "longestDaysLive": 133,
+        "formats": {
+          "video": 40,
+          "dynamic": 116,
+          "image": 26
+        },
+        "topCallToAction": "Sign up",
+        "destinations": {
+          "appStore": 0,
+          "playStore": 0,
+          "web": 185
+        },
+        "weeklyStarts": [
+          113,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "organic": null,
+      "keywords": {
+        "ranked": 1406,
+        "top1": 4,
+        "top3": 116,
+        "top10": 715,
+        "top50": 1241,
+        "best": {
+          "query": "fullscript",
+          "position": 1,
+          "popularity": 48,
+          "popularityEstimate": null
+        },
+        "top": [
+          {
+            "query": "fullscript",
+            "position": 1,
+            "popularity": 48,
+            "popularityEstimate": null
+          },
+          {
+            "query": "convenient healthcare apps similar to fullscript",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-23T07:10:37.511Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "healthwave inc.",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-26T07:09:20.880Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "thorne supplements",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": null
+          },
+          {
+            "query": "suppco: supplement tracker",
+            "position": 2,
+            "popularity": 47,
+            "popularityEstimate": null
+          }
+        ]
+      }
+    },
+    {
+      "storeId": "6670176763",
+      "name": "CareFirst My Account",
+      "developer": "CareFirst, Inc.",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/90/bf/cc90bfb5-9cfd-41c2-6806-7d214cf38907/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/carefirst-my-account/id6670176763?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2026-11-10",
+      "price": 0,
+      "currency": "USD",
+      "rating": 2.54,
+      "ratingCount": 24,
+      "rank": 63,
+      "previousRank": 81,
+      "movement": 18,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-11-12",
+          "rank": 57
+        },
+        {
+          "day": "2026-11-14",
+          "rank": 35
+        },
+        {
+          "day": "2026-11-16",
+          "rank": 81
+        },
+        {
+          "day": "2026-11-18",
+          "rank": 43
+        },
+        {
+          "day": "2026-11-19",
+          "rank": 46
+        },
+        {
+          "day": "2026-11-20",
+          "rank": 45
+        },
+        {
+          "day": "2026-11-22",
+          "rank": 63
+        },
+        {
+          "day": "2026-11-23",
+          "rank": 92
+        },
+        {
+          "day": "2026-11-24",
+          "rank": 60
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 81
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 63
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 19000,
+          "mid": 50000,
+          "high": 130000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "below_floor",
+          "ceiling": 5000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "uncollected",
+      "driverLabel": "Uncollected",
+      "channels": [],
+      "paidStatus": {
+        "state": "uncollected",
+        "freshness": "never",
+        "lastCollectedAt": null
+      },
+      "paidMomentum": {
+        "active": false,
+        "ramping": false,
+        "dominantFormat": null,
+        "webSharePct": null
+      },
+      "paid": null,
+      "organic": null,
+      "keywords": {
+        "ranked": 147,
+        "top1": 0,
+        "top3": 0,
+        "top10": 3,
+        "top50": 61,
+        "best": {
+          "query": "carefirst care management",
+          "position": 4,
+          "popularity": null,
+          "popularityEstimate": {
+            "tier": "very_low",
+            "method": "peekpanda_popularity_estimate",
+            "country": "us",
+            "estimatedAt": "2026-11-23T07:05:05.196Z",
+            "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+          }
+        },
+        "top": [
+          {
+            "query": "carefirst care management",
+            "position": 4,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-23T07:05:05.196Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "allcare provider",
+            "position": 7,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:13:56.434Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "carefirst medicare advantage app",
+            "position": 8,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-23T07:05:05.196Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "allcare facility",
+            "position": 11,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:13:56.434Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "carefirst bluechoice",
+            "position": 11,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-23T07:05:05.196Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "storeId": "1297093746",
+      "name": "GymMaster Member",
+      "developer": "Treshna Enterprises",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/a6/be/b7a6be21-065d-3702-87d9-c33b6de58345/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/gymmaster-member/id1297093746?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2017-10-26",
+      "price": 0,
+      "currency": "USD",
+      "rating": 4.21,
+      "ratingCount": 334,
+      "rank": 48,
+      "previousRank": 62,
+      "movement": 14,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-10-28",
+          "rank": 90
+        },
+        {
+          "day": "2026-10-29",
+          "rank": 95
+        },
+        {
+          "day": "2026-10-30",
+          "rank": 93
+        },
+        {
+          "day": "2026-10-31",
+          "rank": 91
+        },
+        {
+          "day": "2026-11-01",
+          "rank": 90
+        },
+        {
+          "day": "2026-11-05",
+          "rank": 85
+        },
+        {
+          "day": "2026-11-06",
+          "rank": 98
+        },
+        {
+          "day": "2026-11-07",
+          "rank": 90
+        },
+        {
+          "day": "2026-11-11",
+          "rank": 94
+        },
+        {
+          "day": "2026-11-12",
+          "rank": 83
+        },
+        {
+          "day": "2026-11-14",
+          "rank": 98
+        },
+        {
+          "day": "2026-11-18",
+          "rank": 92
+        },
+        {
+          "day": "2026-11-19",
+          "rank": 96
+        },
+        {
+          "day": "2026-11-22",
+          "rank": 95
+        },
+        {
+          "day": "2026-11-24",
+          "rank": 86
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 62
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 48
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 12000,
+          "mid": 24000,
+          "high": 47000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "below_floor",
+          "ceiling": 5000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "aso-moat",
+      "driverLabel": "ASO search moat",
+      "channels": [
+        "aso"
+      ],
+      "paidStatus": {
+        "state": "uncollected",
+        "freshness": "never",
+        "lastCollectedAt": null
+      },
+      "paidMomentum": {
+        "active": false,
+        "ramping": false,
+        "dominantFormat": null,
+        "webSharePct": null
+      },
+      "paid": null,
+      "organic": null,
+      "keywords": {
+        "ranked": 835,
+        "top1": 16,
+        "top3": 119,
+        "top10": 316,
+        "top50": 665,
+        "best": {
+          "query": "gym master",
+          "position": 1,
+          "popularity": 54,
+          "popularityEstimate": null
+        },
+        "top": [
+          {
+            "query": "gym master",
+            "position": 1,
+            "popularity": 54,
+            "popularityEstimate": null
+          },
+          {
+            "query": "arsens gym",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:19:26.777Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "fitness master",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-23T07:25:24.444Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "gymaster",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": null
+          },
+          {
+            "query": "gymmaster",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-26T07:08:47.747Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "storeId": "6471596320",
+      "name": "Limber Health Home Exercise",
+      "developer": "Limber Health, Inc.",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/41/61/d74161fd-6f4a-78d1-08e8-1254ac5b0819/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/limber-health-home-exercise/id6471596320?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2023-12-27",
+      "price": 0,
+      "currency": "USD",
+      "rating": 4.06,
+      "ratingCount": 562,
+      "rank": 54,
+      "previousRank": 68,
+      "movement": 14,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-10-28",
+          "rank": 66
+        },
+        {
+          "day": "2026-10-29",
+          "rank": 57
+        },
+        {
+          "day": "2026-10-30",
+          "rank": 56
+        },
+        {
+          "day": "2026-10-31",
+          "rank": 59
+        },
+        {
+          "day": "2026-11-05",
+          "rank": 58
+        },
+        {
+          "day": "2026-11-06",
+          "rank": 53
+        },
+        {
+          "day": "2026-11-07",
+          "rank": 54
+        },
+        {
+          "day": "2026-11-11",
+          "rank": 70
+        },
+        {
+          "day": "2026-11-12",
+          "rank": 60
+        },
+        {
+          "day": "2026-11-14",
+          "rank": 55
+        },
+        {
+          "day": "2026-11-18",
+          "rank": 68
+        },
+        {
+          "day": "2026-11-19",
+          "rank": 57
+        },
+        {
+          "day": "2026-11-20",
+          "rank": 56
+        },
+        {
+          "day": "2026-11-22",
+          "rank": 94
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 68
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 54
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 17000,
+          "mid": 46000,
+          "high": 130000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "below_floor",
+          "ceiling": 5000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "aso-moat",
+      "driverLabel": "ASO search moat",
+      "channels": [
+        "aso"
+      ],
+      "paidStatus": {
+        "state": "uncollected",
+        "freshness": "never",
+        "lastCollectedAt": null
+      },
+      "paidMomentum": {
+        "active": false,
+        "ramping": false,
+        "dominantFormat": null,
+        "webSharePct": null
+      },
+      "paid": null,
+      "organic": null,
+      "keywords": {
+        "ranked": 535,
+        "top1": 7,
+        "top3": 43,
+        "top10": 272,
+        "top50": 455,
+        "best": {
+          "query": "limbar health",
+          "position": 1,
+          "popularity": null,
+          "popularityEstimate": null
+        },
+        "top": [
+          {
+            "query": "limbar health",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": null
+          },
+          {
+            "query": "limber",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": null
+          },
+          {
+            "query": "limber health app",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-26T07:16:53.285Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "limber health for patients",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": null
+          },
+          {
+            "query": "limber health home exercise",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-26T07:16:53.285Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "storeId": "6749600204",
+      "name": "Rythm Health",
+      "developer": "Rythm Health, Inc.",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/03/b2/a403b23d-dfdb-e886-559f-3baaeee1dfa8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/rythm-health/id6749600204?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2026-10-07",
+      "price": 0,
+      "currency": "USD",
+      "rating": 4.91,
+      "ratingCount": 603,
+      "rank": 62,
+      "previousRank": 75,
+      "movement": 13,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-10-28",
+          "rank": 35
+        },
+        {
+          "day": "2026-10-29",
+          "rank": 38
+        },
+        {
+          "day": "2026-10-30",
+          "rank": 37
+        },
+        {
+          "day": "2026-10-31",
+          "rank": 31
+        },
+        {
+          "day": "2026-11-01",
+          "rank": 41
+        },
+        {
+          "day": "2026-11-02",
+          "rank": 46
+        },
+        {
+          "day": "2026-11-05",
+          "rank": 51
+        },
+        {
+          "day": "2026-11-06",
+          "rank": 49
+        },
+        {
+          "day": "2026-11-07",
+          "rank": 47
+        },
+        {
+          "day": "2026-11-09",
+          "rank": 58
+        },
+        {
+          "day": "2026-11-10",
+          "rank": 50
+        },
+        {
+          "day": "2026-11-11",
+          "rank": 59
+        },
+        {
+          "day": "2026-11-12",
+          "rank": 59
+        },
+        {
+          "day": "2026-11-14",
+          "rank": 56
+        },
+        {
+          "day": "2026-11-16",
+          "rank": 58
+        },
+        {
+          "day": "2026-11-18",
+          "rank": 63
+        },
+        {
+          "day": "2026-11-19",
+          "rank": 68
+        },
+        {
+          "day": "2026-11-20",
+          "rank": 66
+        },
+        {
+          "day": "2026-11-22",
+          "rank": 58
+        },
+        {
+          "day": "2026-11-23",
+          "rank": 68
+        },
+        {
+          "day": "2026-11-24",
+          "rank": 61
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 75
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 62
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 20000,
+          "mid": 52000,
+          "high": 140000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "below_floor",
+          "ceiling": 5000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "aso-moat",
+      "driverLabel": "ASO search moat",
+      "channels": [
+        "aso"
+      ],
+      "paidStatus": {
+        "state": "uncollected",
+        "freshness": "never",
+        "lastCollectedAt": null
+      },
+      "paidMomentum": {
+        "active": false,
+        "ramping": false,
+        "dominantFormat": null,
+        "webSharePct": null
+      },
+      "paid": null,
+      "organic": null,
+      "keywords": {
+        "ranked": 1023,
+        "top1": 4,
+        "top3": 29,
+        "top10": 154,
+        "top50": 666,
+        "best": {
+          "query": "rythm health",
+          "position": 1,
+          "popularity": 48,
+          "popularityEstimate": null
+        },
+        "top": [
+          {
+            "query": "rythm health",
+            "position": 1,
+            "popularity": 48,
+            "popularityEstimate": null
+          },
+          {
+            "query": "rhythm health",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": null
+          },
+          {
+            "query": "rythm",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "medium",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-26T07:27:25.353Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "rythm health, inc.",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": null
+          },
+          {
+            "query": "arka: ai blood test explainer",
+            "position": 2,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:19:07.952Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "storeId": "1598355340",
+      "name": "AF App",
+      "developer": "Anytime Fitness, LLC",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/79/a7/c579a7c9-0fb4-ac67-f4aa-d2ed6afbf001/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/af-app/id1598355340?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2022-11-22",
+      "price": 0,
+      "currency": "USD",
+      "rating": 4.76,
+      "ratingCount": 15031,
+      "rank": 66,
+      "previousRank": 79,
+      "movement": 13,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-10-28",
+          "rank": 70
+        },
+        {
+          "day": "2026-10-29",
+          "rank": 72
+        },
+        {
+          "day": "2026-10-30",
+          "rank": 80
+        },
+        {
+          "day": "2026-10-31",
+          "rank": 74
+        },
+        {
+          "day": "2026-11-01",
+          "rank": 85
+        },
+        {
+          "day": "2026-11-05",
+          "rank": 66
+        },
+        {
+          "day": "2026-11-06",
+          "rank": 73
+        },
+        {
+          "day": "2026-11-07",
+          "rank": 76
+        },
+        {
+          "day": "2026-11-10",
+          "rank": 85
+        },
+        {
+          "day": "2026-11-11",
+          "rank": 71
+        },
+        {
+          "day": "2026-11-12",
+          "rank": 70
+        },
+        {
+          "day": "2026-11-14",
+          "rank": 79
+        },
+        {
+          "day": "2026-11-18",
+          "rank": 69
+        },
+        {
+          "day": "2026-11-19",
+          "rank": 76
+        },
+        {
+          "day": "2026-11-20",
+          "rank": 85
+        },
+        {
+          "day": "2026-11-22",
+          "rank": 98
+        },
+        {
+          "day": "2026-11-24",
+          "rank": 87
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 79
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 66
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 69000,
+          "mid": 130000,
+          "high": 270000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "below_floor",
+          "ceiling": 5000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "aso-moat",
+      "driverLabel": "ASO search moat",
+      "channels": [
+        "aso"
+      ],
+      "paidStatus": {
+        "state": "none_found_stale",
+        "freshness": "stale",
+        "lastCollectedAt": "2026-11-05T09:32:16.717Z"
+      },
+      "paidMomentum": {
+        "active": false,
+        "ramping": false,
+        "dominantFormat": null,
+        "webSharePct": null
+      },
+      "paid": null,
+      "organic": null,
+      "keywords": {
+        "ranked": 1044,
+        "top1": 22,
+        "top3": 120,
+        "top10": 263,
+        "top50": 573,
+        "best": {
+          "query": "anytime fitness",
+          "position": 1,
+          "popularity": 56,
+          "popularityEstimate": null
+        },
+        "top": [
+          {
+            "query": "anytime fitness",
+            "position": 1,
+            "popularity": 56,
+            "popularityEstimate": null
+          },
+          {
+            "query": "active and fit",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:08:39.868Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "activeandfit",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": null
+          },
+          {
+            "query": "active and fit direct",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:08:39.868Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "active & fit",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:08:39.868Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "storeId": "995252384",
+      "name": "BetterHelp - Therapy",
+      "developer": "BetterHelp",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/df/16/1fdf1654-ac36-19ca-1e23-7030654fdbe8/BetterHelp-AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/betterhelp-therapy/id995252384?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2015-07-11",
+      "price": 0,
+      "currency": "USD",
+      "rating": 4.81,
+      "ratingCount": 150554,
+      "rank": 80,
+      "previousRank": 93,
+      "movement": 13,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-10-28",
+          "rank": 68
+        },
+        {
+          "day": "2026-10-29",
+          "rank": 64
+        },
+        {
+          "day": "2026-10-30",
+          "rank": 69
+        },
+        {
+          "day": "2026-10-31",
+          "rank": 73
+        },
+        {
+          "day": "2026-11-01",
+          "rank": 93
+        },
+        {
+          "day": "2026-11-02",
+          "rank": 99
+        },
+        {
+          "day": "2026-11-05",
+          "rank": 73
+        },
+        {
+          "day": "2026-11-06",
+          "rank": 71
+        },
+        {
+          "day": "2026-11-07",
+          "rank": 75
+        },
+        {
+          "day": "2026-11-09",
+          "rank": 86
+        },
+        {
+          "day": "2026-11-10",
+          "rank": 73
+        },
+        {
+          "day": "2026-11-11",
+          "rank": 69
+        },
+        {
+          "day": "2026-11-12",
+          "rank": 72
+        },
+        {
+          "day": "2026-11-14",
+          "rank": 77
+        },
+        {
+          "day": "2026-11-16",
+          "rank": 95
+        },
+        {
+          "day": "2026-11-18",
+          "rank": 66
+        },
+        {
+          "day": "2026-11-19",
+          "rank": 65
+        },
+        {
+          "day": "2026-11-20",
+          "rank": 73
+        },
+        {
+          "day": "2026-11-22",
+          "rank": 88
+        },
+        {
+          "day": "2026-11-23",
+          "rank": 96
+        },
+        {
+          "day": "2026-11-24",
+          "rank": 82
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 93
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 80
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 35000,
+          "mid": 69000,
+          "high": 140000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "below_floor",
+          "ceiling": 5000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "multi-channel",
+      "driverLabel": "Multi-channel",
+      "channels": [
+        "paid",
+        "organic",
+        "aso"
+      ],
+      "paidStatus": {
+        "state": "active",
+        "freshness": "stale",
+        "lastCollectedAt": "2026-10-12T12:49:02.484Z"
+      },
+      "paidMomentum": {
+        "active": true,
+        "ramping": false,
+        "dominantFormat": "dynamic",
+        "webSharePct": 100
+      },
+      "paid": {
+        "totalAds": 4837,
+        "liveAds": 1426,
+        "startedLast7Days": 0,
+        "medianDaysLive": 65,
+        "longestDaysLive": 209,
+        "formats": {
+          "video": 680,
+          "dynamic": 4002,
+          "image": 129
+        },
+        "topCallToAction": "Learn more",
+        "destinations": {
+          "appStore": 0,
+          "playStore": 0,
+          "web": 4837
+        },
+        "weeklyStarts": [
+          702,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "organic": {
+        "matchedPosts": 3,
+        "views": 3028182,
+        "medianViews": 672600,
+        "bestPostViews": 2300000,
+        "postsOverMillion": 1,
+        "newestPublishedAt": "2026-10-14T00:00:00.000Z",
+        "platforms": {
+          "TikTok": 2,
+          "Instagram": 1
+        },
+        "matchedBy": "store_url"
+      },
+      "keywords": {
+        "ranked": 718,
+        "top1": 20,
+        "top3": 147,
+        "top10": 320,
+        "top50": 498,
+        "best": {
+          "query": "betterhelp",
+          "position": 1,
+          "popularity": 55,
+          "popularityEstimate": null
+        },
+        "top": [
+          {
+            "query": "betterhelp",
+            "position": 1,
+            "popularity": 55,
+            "popularityEstimate": null
+          },
+          {
+            "query": "therapy",
+            "position": 1,
+            "popularity": 49,
+            "popularityEstimate": null
+          },
+          {
+            "query": "austin treatment centers",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:21:10.487Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "better health",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:26:54.331Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "betterhealth",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:26:54.331Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "storeId": "1192326768",
+      "name": "Life Time Digital",
+      "developer": "Life Time, Inc.",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/1b/80/f01b80cf-264c-583e-d2c8-5d0315a214ca/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/life-time-digital/id1192326768?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2017-03-02",
+      "price": 0,
+      "currency": "USD",
+      "rating": 4.77,
+      "ratingCount": 177290,
+      "rank": 15,
+      "previousRank": 26,
+      "movement": 11,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-10-28",
+          "rank": 63
+        },
+        {
+          "day": "2026-10-29",
+          "rank": 69
+        },
+        {
+          "day": "2026-10-30",
+          "rank": 70
+        },
+        {
+          "day": "2026-10-31",
+          "rank": 50
+        },
+        {
+          "day": "2026-11-01",
+          "rank": 31
+        },
+        {
+          "day": "2026-11-02",
+          "rank": 38
+        },
+        {
+          "day": "2026-11-05",
+          "rank": 64
+        },
+        {
+          "day": "2026-11-06",
+          "rank": 70
+        },
+        {
+          "day": "2026-11-07",
+          "rank": 48
+        },
+        {
+          "day": "2026-11-09",
+          "rank": 37
+        },
+        {
+          "day": "2026-11-10",
+          "rank": 55
+        },
+        {
+          "day": "2026-11-11",
+          "rank": 65
+        },
+        {
+          "day": "2026-11-12",
+          "rank": 55
+        },
+        {
+          "day": "2026-11-14",
+          "rank": 54
+        },
+        {
+          "day": "2026-11-16",
+          "rank": 33
+        },
+        {
+          "day": "2026-11-18",
+          "rank": 61
+        },
+        {
+          "day": "2026-11-19",
+          "rank": 67
+        },
+        {
+          "day": "2026-11-20",
+          "rank": 44
+        },
+        {
+          "day": "2026-11-22",
+          "rank": 28
+        },
+        {
+          "day": "2026-11-23",
+          "rank": 31
+        },
+        {
+          "day": "2026-11-24",
+          "rank": 36
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 26
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 15
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 41000,
+          "mid": 80000,
+          "high": 160000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "below_floor",
+          "ceiling": 5000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "aso-moat",
+      "driverLabel": "ASO search moat",
+      "channels": [
+        "aso"
+      ],
+      "paidStatus": {
+        "state": "none_found_stale",
+        "freshness": "stale",
+        "lastCollectedAt": "2026-11-20T02:14:02.899Z"
+      },
+      "paidMomentum": {
+        "active": false,
+        "ramping": false,
+        "dominantFormat": null,
+        "webSharePct": null
+      },
+      "paid": null,
+      "organic": null,
+      "keywords": {
+        "ranked": 837,
+        "top1": 20,
+        "top3": 131,
+        "top10": 301,
+        "top50": 508,
+        "best": {
+          "query": "lifetime fitness",
+          "position": 1,
+          "popularity": 59,
+          "popularityEstimate": null
+        },
+        "top": [
+          {
+            "query": "lifetime fitness",
+            "position": 1,
+            "popularity": 59,
+            "popularityEstimate": null
+          },
+          {
+            "query": "digital coach",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": null
+          },
+          {
+            "query": "finfit life",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-23T07:24:21.465Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "iifetime digital",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-26T07:11:29.215Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "life cafe",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-26T07:16:34.371Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "storeId": "779622024",
+      "name": "MyHumana",
+      "developer": "Humana Inc.",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/ad/47/22ad475d-50ae-03a0-5cb8-aa0fa93e7b7c/AppIcon-prod-0-0-1x_U007epad-0-1-85-220.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/myhumana/id779622024?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2013-12-30",
+      "price": 0,
+      "currency": "USD",
+      "rating": 4.79,
+      "ratingCount": 42205,
+      "rank": 49,
+      "previousRank": 59,
+      "movement": 10,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-10-28",
+          "rank": 80
+        },
+        {
+          "day": "2026-10-29",
+          "rank": 71
+        },
+        {
+          "day": "2026-10-30",
+          "rank": 72
+        },
+        {
+          "day": "2026-10-31",
+          "rank": 68
+        },
+        {
+          "day": "2026-11-01",
+          "rank": 79
+        },
+        {
+          "day": "2026-11-02",
+          "rank": 98
+        },
+        {
+          "day": "2026-11-05",
+          "rank": 61
+        },
+        {
+          "day": "2026-11-06",
+          "rank": 61
+        },
+        {
+          "day": "2026-11-07",
+          "rank": 64
+        },
+        {
+          "day": "2026-11-09",
+          "rank": 89
+        },
+        {
+          "day": "2026-11-10",
+          "rank": 69
+        },
+        {
+          "day": "2026-11-11",
+          "rank": 61
+        },
+        {
+          "day": "2026-11-12",
+          "rank": 64
+        },
+        {
+          "day": "2026-11-14",
+          "rank": 58
+        },
+        {
+          "day": "2026-11-16",
+          "rank": 91
+        },
+        {
+          "day": "2026-11-18",
+          "rank": 51
+        },
+        {
+          "day": "2026-11-19",
+          "rank": 43
+        },
+        {
+          "day": "2026-11-20",
+          "rank": 43
+        },
+        {
+          "day": "2026-11-22",
+          "rank": 45
+        },
+        {
+          "day": "2026-11-23",
+          "rank": 63
+        },
+        {
+          "day": "2026-11-24",
+          "rank": 54
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 59
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 49
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 34000,
+          "mid": 67000,
+          "high": 130000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "below_floor",
+          "ceiling": 5000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "aso-moat",
+      "driverLabel": "ASO search moat",
+      "channels": [
+        "aso"
+      ],
+      "paidStatus": {
+        "state": "none_found_stale",
+        "freshness": "stale",
+        "lastCollectedAt": "2026-11-05T19:10:01.999Z"
+      },
+      "paidMomentum": {
+        "active": false,
+        "ramping": false,
+        "dominantFormat": null,
+        "webSharePct": null
+      },
+      "paid": null,
+      "organic": null,
+      "keywords": {
+        "ranked": 1334,
+        "top1": 23,
+        "top3": 84,
+        "top10": 330,
+        "top50": 924,
+        "best": {
+          "query": "humana",
+          "position": 1,
+          "popularity": 55,
+          "popularityEstimate": null
+        },
+        "top": [
+          {
+            "query": "humana",
+            "position": 1,
+            "popularity": 55,
+            "popularityEstimate": null
+          },
+          {
+            "query": "humana.com/myaccount",
+            "position": 1,
+            "popularity": 54,
+            "popularityEstimate": null
+          },
+          {
+            "query": "myhumana",
+            "position": 1,
+            "popularity": 49,
+            "popularityEstimate": null
+          },
+          {
+            "query": "healthybenefitsplus.com/humana",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-26T07:09:20.880Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "humana.com",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-26T07:10:44.313Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "storeId": "1089747982",
+      "name": "Medbridge GO for Patients",
+      "developer": "MedBridge Education LLC",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/30/67/52306739-f786-5a06-ffac-6051fca2cbea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/medbridge-go-for-patients/id1089747982?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2017-02-21",
+      "price": 0,
+      "currency": "USD",
+      "rating": 4.75,
+      "ratingCount": 156760,
+      "rank": 38,
+      "previousRank": 47,
+      "movement": 9,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-10-28",
+          "rank": 42
+        },
+        {
+          "day": "2026-10-29",
+          "rank": 33
+        },
+        {
+          "day": "2026-10-30",
+          "rank": 32
+        },
+        {
+          "day": "2026-10-31",
+          "rank": 32
+        },
+        {
+          "day": "2026-11-01",
+          "rank": 51
+        },
+        {
+          "day": "2026-11-02",
+          "rank": 95
+        },
+        {
+          "day": "2026-11-05",
+          "rank": 42
+        },
+        {
+          "day": "2026-11-06",
+          "rank": 38
+        },
+        {
+          "day": "2026-11-07",
+          "rank": 31
+        },
+        {
+          "day": "2026-11-09",
+          "rank": 84
+        },
+        {
+          "day": "2026-11-10",
+          "rank": 65
+        },
+        {
+          "day": "2026-11-11",
+          "rank": 42
+        },
+        {
+          "day": "2026-11-12",
+          "rank": 36
+        },
+        {
+          "day": "2026-11-14",
+          "rank": 33
+        },
+        {
+          "day": "2026-11-16",
+          "rank": 92
+        },
+        {
+          "day": "2026-11-18",
+          "rank": 44
+        },
+        {
+          "day": "2026-11-19",
+          "rank": 36
+        },
+        {
+          "day": "2026-11-20",
+          "rank": 35
+        },
+        {
+          "day": "2026-11-22",
+          "rank": 47
+        },
+        {
+          "day": "2026-11-23",
+          "rank": 86
+        },
+        {
+          "day": "2026-11-24",
+          "rank": 64
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 47
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 38
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 40000,
+          "mid": 78000,
+          "high": 150000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "below_floor",
+          "ceiling": 5000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "aso-moat",
+      "driverLabel": "ASO search moat",
+      "channels": [
+        "aso"
+      ],
+      "paidStatus": {
+        "state": "none_found_stale",
+        "freshness": "stale",
+        "lastCollectedAt": "2026-11-20T07:22:29.087Z"
+      },
+      "paidMomentum": {
+        "active": false,
+        "ramping": false,
+        "dominantFormat": null,
+        "webSharePct": null
+      },
+      "paid": null,
+      "organic": null,
+      "keywords": {
+        "ranked": 696,
+        "top1": 16,
+        "top3": 153,
+        "top10": 328,
+        "top50": 519,
+        "best": {
+          "query": "medbridge go",
+          "position": 1,
+          "popularity": 51,
+          "popularityEstimate": null
+        },
+        "top": [
+          {
+            "query": "medbridge go",
+            "position": 1,
+            "popularity": 51,
+            "popularityEstimate": null
+          },
+          {
+            "query": "hep2go",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-26T07:09:26.915Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "medbridgego",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": null
+          },
+          {
+            "query": "medbridge go app for patient education",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-26T07:19:14.553Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "medbridgego.com",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-26T07:19:14.553Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "storeId": "6448732070",
+      "name": "Nourish: Eating Well Made Easy",
+      "developer": "Nourish Inc.",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/b9/e5/36b9e50f-b4ee-416e-048b-63deefcd87d1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/nourish-eating-well-made-easy/id6448732070?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2023-05-17",
+      "price": 0,
+      "currency": "USD",
+      "rating": 4.82,
+      "ratingCount": 33426,
+      "rank": 65,
+      "previousRank": 74,
+      "movement": 9,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-10-28",
+          "rank": 49
+        },
+        {
+          "day": "2026-10-29",
+          "rank": 43
+        },
+        {
+          "day": "2026-10-30",
+          "rank": 45
+        },
+        {
+          "day": "2026-10-31",
+          "rank": 47
+        },
+        {
+          "day": "2026-11-01",
+          "rank": 57
+        },
+        {
+          "day": "2026-11-02",
+          "rank": 62
+        },
+        {
+          "day": "2026-11-05",
+          "rank": 47
+        },
+        {
+          "day": "2026-11-06",
+          "rank": 44
+        },
+        {
+          "day": "2026-11-07",
+          "rank": 44
+        },
+        {
+          "day": "2026-11-09",
+          "rank": 63
+        },
+        {
+          "day": "2026-11-10",
+          "rank": 49
+        },
+        {
+          "day": "2026-11-11",
+          "rank": 43
+        },
+        {
+          "day": "2026-11-12",
+          "rank": 43
+        },
+        {
+          "day": "2026-11-14",
+          "rank": 42
+        },
+        {
+          "day": "2026-11-16",
+          "rank": 56
+        },
+        {
+          "day": "2026-11-18",
+          "rank": 56
+        },
+        {
+          "day": "2026-11-19",
+          "rank": 54
+        },
+        {
+          "day": "2026-11-20",
+          "rank": 53
+        },
+        {
+          "day": "2026-11-22",
+          "rank": 69
+        },
+        {
+          "day": "2026-11-23",
+          "rank": 91
+        },
+        {
+          "day": "2026-11-24",
+          "rank": 76
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 74
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 65
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 33000,
+          "mid": 63000,
+          "high": 130000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "below_floor",
+          "ceiling": 5000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "multi-channel",
+      "driverLabel": "Multi-channel",
+      "channels": [
+        "paid",
+        "organic",
+        "aso"
+      ],
+      "paidStatus": {
+        "state": "active",
+        "freshness": "stale",
+        "lastCollectedAt": "2026-11-09T22:17:52.487Z"
+      },
+      "paidMomentum": {
+        "active": true,
+        "ramping": false,
+        "dominantFormat": "video",
+        "webSharePct": 100
+      },
+      "paid": {
+        "totalAds": 413,
+        "liveAds": 375,
+        "startedLast7Days": 0,
+        "medianDaysLive": 26,
+        "longestDaysLive": 231,
+        "formats": {
+          "video": 235,
+          "dynamic": 111,
+          "image": 62
+        },
+        "topCallToAction": "Learn more",
+        "destinations": {
+          "appStore": 0,
+          "playStore": 0,
+          "web": 413
+        },
+        "weeklyStarts": [
+          0,
+          0,
+          43,
+          140,
+          146,
+          33,
+          0,
+          0
+        ]
+      },
+      "organic": {
+        "matchedPosts": 2,
+        "views": 731100,
+        "medianViews": 365550,
+        "bestPostViews": 647600,
+        "postsOverMillion": 0,
+        "newestPublishedAt": "2026-10-22T00:00:00.000Z",
+        "platforms": {
+          "TikTok": 2
+        },
+        "matchedBy": "store_url"
+      },
+      "keywords": {
+        "ranked": 1864,
+        "top1": 26,
+        "top3": 399,
+        "top10": 1082,
+        "top50": 1620,
+        "best": {
+          "query": "nourish",
+          "position": 1,
+          "popularity": 55,
+          "popularityEstimate": null
+        },
+        "top": [
+          {
+            "query": "nourish",
+            "position": 1,
+            "popularity": 55,
+            "popularityEstimate": null
+          },
+          {
+            "query": "dietician",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": null
+          },
+          {
+            "query": "dietitian",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-23T07:14:53.281Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "dietitian fairy",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-23T07:14:53.281Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "dietition",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-23T07:14:53.281Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "storeId": "979101825",
+      "name": "StepUp Pedometer Step Counter",
+      "developer": "Pratik Stephen",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/c3/42/a0c342db-3ddc-4ee9-3657-6e81e0f55845/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/stepup-pedometer-step-counter/id979101825?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2015-11-18",
+      "price": 0,
+      "currency": "USD",
+      "rating": 4.84,
+      "ratingCount": 153977,
+      "rank": 61,
+      "previousRank": 69,
+      "movement": 8,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-10-28",
+          "rank": 29
+        },
+        {
+          "day": "2026-10-29",
+          "rank": 26
+        },
+        {
+          "day": "2026-10-30",
+          "rank": 22
+        },
+        {
+          "day": "2026-10-31",
+          "rank": 20
+        },
+        {
+          "day": "2026-11-01",
+          "rank": 24
+        },
+        {
+          "day": "2026-11-02",
+          "rank": 20
+        },
+        {
+          "day": "2026-11-05",
+          "rank": 17
+        },
+        {
+          "day": "2026-11-06",
+          "rank": 20
+        },
+        {
+          "day": "2026-11-07",
+          "rank": 25
+        },
+        {
+          "day": "2026-11-09",
+          "rank": 48
+        },
+        {
+          "day": "2026-11-10",
+          "rank": 35
+        },
+        {
+          "day": "2026-11-11",
+          "rank": 32
+        },
+        {
+          "day": "2026-11-12",
+          "rank": 29
+        },
+        {
+          "day": "2026-11-14",
+          "rank": 44
+        },
+        {
+          "day": "2026-11-16",
+          "rank": 54
+        },
+        {
+          "day": "2026-11-18",
+          "rank": 49
+        },
+        {
+          "day": "2026-11-19",
+          "rank": 48
+        },
+        {
+          "day": "2026-11-20",
+          "rank": 57
+        },
+        {
+          "day": "2026-11-22",
+          "rank": 72
+        },
+        {
+          "day": "2026-11-23",
+          "rank": 78
+        },
+        {
+          "day": "2026-11-24",
+          "rank": 69
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 69
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 61
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 77000,
+          "mid": 150000,
+          "high": 300000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "below_floor",
+          "ceiling": 5000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "aso-moat",
+      "driverLabel": "ASO search moat",
+      "channels": [
+        "aso"
+      ],
+      "paidStatus": {
+        "state": "none_found",
+        "freshness": "fresh",
+        "lastCollectedAt": "2026-11-25T23:05:48.337Z"
+      },
+      "paidMomentum": {
+        "active": false,
+        "ramping": false,
+        "dominantFormat": null,
+        "webSharePct": null
+      },
+      "paid": null,
+      "organic": null,
+      "keywords": {
+        "ranked": 2254,
+        "top1": 40,
+        "top3": 191,
+        "top10": 660,
+        "top50": 1394,
+        "best": {
+          "query": "step up",
+          "position": 1,
+          "popularity": 55,
+          "popularityEstimate": null
+        },
+        "top": [
+          {
+            "query": "step up",
+            "position": 1,
+            "popularity": 55,
+            "popularityEstimate": null
+          },
+          {
+            "query": "stepup",
+            "position": 1,
+            "popularity": 50,
+            "popularityEstimate": null
+          },
+          {
+            "query": "apps for 10000 step challenges",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:18:03.610Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "apps for group step challenges",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:18:03.610Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "apps that track your steps",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:18:11.536Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "storeId": "569266174",
+      "name": "myCigna",
+      "developer": "Cigna Corporation",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/78/49/fc784994-0a95-8e56-b13c-3668fa4448f7/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/mycigna/id569266174?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2012-12-14",
+      "price": 0,
+      "currency": "USD",
+      "rating": 4.75,
+      "ratingCount": 163872,
+      "rank": 32,
+      "previousRank": 39,
+      "movement": 7,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-10-28",
+          "rank": 22
+        },
+        {
+          "day": "2026-10-29",
+          "rank": 20
+        },
+        {
+          "day": "2026-10-30",
+          "rank": 21
+        },
+        {
+          "day": "2026-10-31",
+          "rank": 22
+        },
+        {
+          "day": "2026-11-01",
+          "rank": 36
+        },
+        {
+          "day": "2026-11-02",
+          "rank": 41
+        },
+        {
+          "day": "2026-11-05",
+          "rank": 9
+        },
+        {
+          "day": "2026-11-06",
+          "rank": 14
+        },
+        {
+          "day": "2026-11-07",
+          "rank": 18
+        },
+        {
+          "day": "2026-11-09",
+          "rank": 44
+        },
+        {
+          "day": "2026-11-10",
+          "rank": 22
+        },
+        {
+          "day": "2026-11-11",
+          "rank": 17
+        },
+        {
+          "day": "2026-11-12",
+          "rank": 21
+        },
+        {
+          "day": "2026-11-14",
+          "rank": 23
+        },
+        {
+          "day": "2026-11-16",
+          "rank": 48
+        },
+        {
+          "day": "2026-11-18",
+          "rank": 22
+        },
+        {
+          "day": "2026-11-19",
+          "rank": 22
+        },
+        {
+          "day": "2026-11-20",
+          "rank": 24
+        },
+        {
+          "day": "2026-11-22",
+          "rank": 44
+        },
+        {
+          "day": "2026-11-23",
+          "rank": 55
+        },
+        {
+          "day": "2026-11-24",
+          "rank": 34
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 39
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 32
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 66000,
+          "mid": 130000,
+          "high": 250000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "below_floor",
+          "ceiling": 5000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "aso-moat",
+      "driverLabel": "ASO search moat",
+      "channels": [
+        "aso"
+      ],
+      "paidStatus": {
+        "state": "none_found_stale",
+        "freshness": "stale",
+        "lastCollectedAt": "2026-11-20T06:15:06.001Z"
+      },
+      "paidMomentum": {
+        "active": false,
+        "ramping": false,
+        "dominantFormat": null,
+        "webSharePct": null
+      },
+      "paid": null,
+      "organic": null,
+      "keywords": {
+        "ranked": 1649,
+        "top1": 26,
+        "top3": 171,
+        "top10": 565,
+        "top50": 1278,
+        "best": {
+          "query": "cigna healthcare",
+          "position": 1,
+          "popularity": 57,
+          "popularityEstimate": null
+        },
+        "top": [
+          {
+            "query": "cigna healthcare",
+            "position": 1,
+            "popularity": 57,
+            "popularityEstimate": null
+          },
+          {
+            "query": "cigna",
+            "position": 1,
+            "popularity": 55,
+            "popularityEstimate": null
+          },
+          {
+            "query": "mycigna",
+            "position": 1,
+            "popularity": 50,
+            "popularityEstimate": null
+          },
+          {
+            "query": "cigna app",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": null
+          },
+          {
+            "query": "cigna corporation",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": null
+          }
+        ]
+      }
+    },
+    {
+      "storeId": "6474598021",
+      "name": "Blood Pressure App-BP Tracker",
+      "developer": "AKRURA PTE. LTD",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/5c/b3/df5cb336-5b95-cfac-e358-ba0b10392723/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/blood-pressure-app-bp-tracker/id6474598021?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2024-01-05",
+      "price": 0,
+      "currency": "USD",
+      "rating": 4.5,
+      "ratingCount": 11859,
+      "rank": 50,
+      "previousRank": 56,
+      "movement": 6,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-10-28",
+          "rank": 52
+        },
+        {
+          "day": "2026-10-29",
+          "rank": 58
+        },
+        {
+          "day": "2026-10-30",
+          "rank": 55
+        },
+        {
+          "day": "2026-10-31",
+          "rank": 55
+        },
+        {
+          "day": "2026-11-01",
+          "rank": 59
+        },
+        {
+          "day": "2026-11-02",
+          "rank": 53
+        },
+        {
+          "day": "2026-11-05",
+          "rank": 76
+        },
+        {
+          "day": "2026-11-06",
+          "rank": 65
+        },
+        {
+          "day": "2026-11-07",
+          "rank": 42
+        },
+        {
+          "day": "2026-11-09",
+          "rank": 35
+        },
+        {
+          "day": "2026-11-10",
+          "rank": 44
+        },
+        {
+          "day": "2026-11-11",
+          "rank": 53
+        },
+        {
+          "day": "2026-11-12",
+          "rank": 62
+        },
+        {
+          "day": "2026-11-14",
+          "rank": 46
+        },
+        {
+          "day": "2026-11-16",
+          "rank": 61
+        },
+        {
+          "day": "2026-11-18",
+          "rank": 57
+        },
+        {
+          "day": "2026-11-19",
+          "rank": 61
+        },
+        {
+          "day": "2026-11-20",
+          "rank": 60
+        },
+        {
+          "day": "2026-11-22",
+          "rank": 39
+        },
+        {
+          "day": "2026-11-23",
+          "rank": 37
+        },
+        {
+          "day": "2026-11-24",
+          "rank": 52
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 56
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 50
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 37000,
+          "mid": 72000,
+          "high": 140000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "range",
+          "low": 86000,
+          "mid": 170000,
+          "high": 330000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "aso-moat",
+      "driverLabel": "ASO search moat",
+      "channels": [
+        "aso"
+      ],
+      "paidStatus": {
+        "state": "none_found_stale",
+        "freshness": "stale",
+        "lastCollectedAt": "2026-10-09T04:16:57.425Z"
+      },
+      "paidMomentum": {
+        "active": false,
+        "ramping": false,
+        "dominantFormat": null,
+        "webSharePct": null
+      },
+      "paid": null,
+      "organic": null,
+      "keywords": {
+        "ranked": 1431,
+        "top1": 10,
+        "top3": 66,
+        "top10": 293,
+        "top50": 848,
+        "best": {
+          "query": "akrura pte. ltd",
+          "position": 1,
+          "popularity": null,
+          "popularityEstimate": {
+            "tier": "very_low",
+            "method": "peekpanda_popularity_estimate",
+            "country": "us",
+            "estimatedAt": "2026-11-22T07:13:05.968Z",
+            "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+          }
+        },
+        "top": [
+          {
+            "query": "akrura pte. ltd",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:13:05.968Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "apps to check blood pressure and pulse",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:18:11.536Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "bllod — blood test tracker",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:28:54.852Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "blood pressure app-bp tracker",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-26T07:03:53.114Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "blood pressure bp tracker",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-26T07:03:53.114Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "storeId": "1316004998",
+      "name": "Da Fit",
+      "developer": "MO YOUNG LIMITED",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/cf/60/81cf60c8-70ec-4f82-2990-3ae62fcbcaf8/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/da-fit/id1316004998?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2017-11-22",
+      "price": 0,
+      "currency": "USD",
+      "rating": 4.67,
+      "ratingCount": 230791,
+      "rank": 71,
+      "previousRank": 77,
+      "movement": 6,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-10-28",
+          "rank": 95
+        },
+        {
+          "day": "2026-10-29",
+          "rank": 93
+        },
+        {
+          "day": "2026-10-30",
+          "rank": 92
+        },
+        {
+          "day": "2026-10-31",
+          "rank": 83
+        },
+        {
+          "day": "2026-11-01",
+          "rank": 67
+        },
+        {
+          "day": "2026-11-02",
+          "rank": 60
+        },
+        {
+          "day": "2026-11-05",
+          "rank": 91
+        },
+        {
+          "day": "2026-11-06",
+          "rank": 95
+        },
+        {
+          "day": "2026-11-07",
+          "rank": 88
+        },
+        {
+          "day": "2026-11-09",
+          "rank": 70
+        },
+        {
+          "day": "2026-11-10",
+          "rank": 92
+        },
+        {
+          "day": "2026-11-11",
+          "rank": 100
+        },
+        {
+          "day": "2026-11-16",
+          "rank": 77
+        },
+        {
+          "day": "2026-11-20",
+          "rank": 97
+        },
+        {
+          "day": "2026-11-22",
+          "rank": 76
+        },
+        {
+          "day": "2026-11-23",
+          "rank": 67
+        },
+        {
+          "day": "2026-11-24",
+          "rank": 79
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 77
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 71
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 130000,
+          "mid": 240000,
+          "high": 480000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "below_floor",
+          "ceiling": 5000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "aso-moat",
+      "driverLabel": "ASO search moat",
+      "channels": [
+        "aso"
+      ],
+      "paidStatus": {
+        "state": "none_found_stale",
+        "freshness": "stale",
+        "lastCollectedAt": "2026-11-19T03:57:16.786Z"
+      },
+      "paidMomentum": {
+        "active": false,
+        "ramping": false,
+        "dominantFormat": null,
+        "webSharePct": null
+      },
+      "paid": null,
+      "organic": null,
+      "keywords": {
+        "ranked": 3283,
+        "top1": 31,
+        "top3": 129,
+        "top10": 383,
+        "top50": 1123,
+        "best": {
+          "query": "da fit",
+          "position": 1,
+          "popularity": 50,
+          "popularityEstimate": null
+        },
+        "top": [
+          {
+            "query": "da fit",
+            "position": 1,
+            "popularity": 50,
+            "popularityEstimate": null
+          },
+          {
+            "query": "da fit watch",
+            "position": 1,
+            "popularity": 49,
+            "popularityEstimate": null
+          },
+          {
+            "query": "aplicación para reloj",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-26T07:03:10.897Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "da app",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-23T07:12:54.633Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "da-app",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "medium",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-23T07:12:54.633Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "storeId": "1261033071",
+      "name": "Aetna Health",
+      "developer": "Aetna Inc.",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/02/a2/6c02a266-9c4b-edda-8140-1912c277fa5b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/aetna-health/id1261033071?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2018-01-01",
+      "price": 0,
+      "currency": "USD",
+      "rating": 4.67,
+      "ratingCount": 374769,
+      "rank": 20,
+      "previousRank": 25,
+      "movement": 5,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-10-28",
+          "rank": 19
+        },
+        {
+          "day": "2026-10-29",
+          "rank": 19
+        },
+        {
+          "day": "2026-10-30",
+          "rank": 18
+        },
+        {
+          "day": "2026-10-31",
+          "rank": 16
+        },
+        {
+          "day": "2026-11-01",
+          "rank": 23
+        },
+        {
+          "day": "2026-11-02",
+          "rank": 27
+        },
+        {
+          "day": "2026-11-05",
+          "rank": 15
+        },
+        {
+          "day": "2026-11-06",
+          "rank": 12
+        },
+        {
+          "day": "2026-11-07",
+          "rank": 16
+        },
+        {
+          "day": "2026-11-09",
+          "rank": 24
+        },
+        {
+          "day": "2026-11-10",
+          "rank": 20
+        },
+        {
+          "day": "2026-11-11",
+          "rank": 19
+        },
+        {
+          "day": "2026-11-12",
+          "rank": 22
+        },
+        {
+          "day": "2026-11-14",
+          "rank": 19
+        },
+        {
+          "day": "2026-11-16",
+          "rank": 23
+        },
+        {
+          "day": "2026-11-18",
+          "rank": 19
+        },
+        {
+          "day": "2026-11-19",
+          "rank": 18
+        },
+        {
+          "day": "2026-11-20",
+          "rank": 20
+        },
+        {
+          "day": "2026-11-22",
+          "rank": 19
+        },
+        {
+          "day": "2026-11-23",
+          "rank": 25
+        },
+        {
+          "day": "2026-11-24",
+          "rank": 23
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 25
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 20
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 84000,
+          "mid": 160000,
+          "high": 330000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "below_floor",
+          "ceiling": 5000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "aso-moat",
+      "driverLabel": "ASO search moat",
+      "channels": [
+        "aso"
+      ],
+      "paidStatus": {
+        "state": "none_found_stale",
+        "freshness": "stale",
+        "lastCollectedAt": "2026-11-19T09:48:36.740Z"
+      },
+      "paidMomentum": {
+        "active": false,
+        "ramping": false,
+        "dominantFormat": null,
+        "webSharePct": null
+      },
+      "paid": null,
+      "organic": null,
+      "keywords": {
+        "ranked": 3359,
+        "top1": 41,
+        "top3": 246,
+        "top10": 940,
+        "top50": 2302,
+        "best": {
+          "query": "aetna mobile app",
+          "position": 1,
+          "popularity": 60,
+          "popularityEstimate": null
+        },
+        "top": [
+          {
+            "query": "aetna mobile app",
+            "position": 1,
+            "popularity": 60,
+            "popularityEstimate": null
+          },
+          {
+            "query": "aetna",
+            "position": 1,
+            "popularity": 54,
+            "popularityEstimate": null
+          },
+          {
+            "query": "aet",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": null
+          },
+          {
+            "query": "aetna advantage",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:09:25.516Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "aet.na/app",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:09:25.516Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "storeId": "6783091001",
+      "name": "Headway Therapy & Psychiatry",
+      "developer": "Therapymatch, Inc.",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/df/fd/b9dffd29-894f-9fc8-054c-3cc66c7b7551/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/headway-therapy-psychiatry/id6783091001?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2026-09-23",
+      "price": 0,
+      "currency": "USD",
+      "rating": 4.69,
+      "ratingCount": 111,
+      "rank": 29,
+      "previousRank": 34,
+      "movement": 5,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-10-30",
+          "rank": 44
+        },
+        {
+          "day": "2026-10-31",
+          "rank": 43
+        },
+        {
+          "day": "2026-11-01",
+          "rank": 62
+        },
+        {
+          "day": "2026-11-02",
+          "rank": 78
+        },
+        {
+          "day": "2026-11-05",
+          "rank": 30
+        },
+        {
+          "day": "2026-11-06",
+          "rank": 30
+        },
+        {
+          "day": "2026-11-07",
+          "rank": 13
+        },
+        {
+          "day": "2026-11-09",
+          "rank": 3
+        },
+        {
+          "day": "2026-11-10",
+          "rank": 5
+        },
+        {
+          "day": "2026-11-11",
+          "rank": 10
+        },
+        {
+          "day": "2026-11-12",
+          "rank": 19
+        },
+        {
+          "day": "2026-11-14",
+          "rank": 25
+        },
+        {
+          "day": "2026-11-16",
+          "rank": 47
+        },
+        {
+          "day": "2026-11-18",
+          "rank": 28
+        },
+        {
+          "day": "2026-11-19",
+          "rank": 27
+        },
+        {
+          "day": "2026-11-20",
+          "rank": 26
+        },
+        {
+          "day": "2026-11-22",
+          "rank": 32
+        },
+        {
+          "day": "2026-11-23",
+          "rank": 46
+        },
+        {
+          "day": "2026-11-24",
+          "rank": 31
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 34
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 29
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 31000,
+          "mid": 82000,
+          "high": 220000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "below_floor",
+          "ceiling": 5000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "aso-moat",
+      "driverLabel": "ASO search moat",
+      "channels": [
+        "aso"
+      ],
+      "paidStatus": {
+        "state": "uncollected",
+        "freshness": "never",
+        "lastCollectedAt": null
+      },
+      "paidMomentum": {
+        "active": false,
+        "ramping": false,
+        "dominantFormat": null,
+        "webSharePct": null
+      },
+      "paid": null,
+      "organic": null,
+      "keywords": {
+        "ranked": 59,
+        "top1": 5,
+        "top3": 5,
+        "top10": 13,
+        "top50": 29,
+        "best": {
+          "query": "headway",
+          "position": 1,
+          "popularity": 56,
+          "popularityEstimate": null
+        },
+        "top": [
+          {
+            "query": "headway",
+            "position": 1,
+            "popularity": 56,
+            "popularityEstimate": null
+          },
+          {
+            "query": "headway therapy",
+            "position": 1,
+            "popularity": 49,
+            "popularityEstimate": null
+          },
+          {
+            "query": "headway ap",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": null
+          },
+          {
+            "query": "headway therapy & psychiatry",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-26T07:09:15.934Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "the headway app",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-26T07:32:08.197Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "storeId": "6756594504",
+      "name": "iFIT Personal Trainer",
+      "developer": "ICON Health & Fitness, Inc.",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/81/5b/f6815b4c-8ebc-2792-a954-f5f850785cb0/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/ifit-personal-trainer/id6756594504?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2026-02-11",
+      "price": 0,
+      "currency": "USD",
+      "rating": 4.66,
+      "ratingCount": 1659,
+      "rank": 75,
+      "previousRank": 80,
+      "movement": 5,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-11-09",
+          "rank": 97
+        },
+        {
+          "day": "2026-11-14",
+          "rank": 83
+        },
+        {
+          "day": "2026-11-16",
+          "rank": 70
+        },
+        {
+          "day": "2026-11-22",
+          "rank": 93
+        },
+        {
+          "day": "2026-11-23",
+          "rank": 95
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 80
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 75
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 21000,
+          "mid": 40000,
+          "high": 79000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "below_floor",
+          "ceiling": 5000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "aso-moat",
+      "driverLabel": "ASO search moat",
+      "channels": [
+        "aso"
+      ],
+      "paidStatus": {
+        "state": "uncollected",
+        "freshness": "never",
+        "lastCollectedAt": null
+      },
+      "paidMomentum": {
+        "active": false,
+        "ramping": false,
+        "dominantFormat": null,
+        "webSharePct": null
+      },
+      "paid": null,
+      "organic": null,
+      "keywords": {
+        "ranked": 1559,
+        "top1": 2,
+        "top3": 21,
+        "top10": 144,
+        "top50": 950,
+        "best": {
+          "query": "ifit personal trainer",
+          "position": 1,
+          "popularity": null,
+          "popularityEstimate": {
+            "tier": "very_low",
+            "method": "peekpanda_popularity_estimate",
+            "country": "us",
+            "estimatedAt": "2026-11-26T07:11:21.629Z",
+            "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+          }
+        },
+        "top": [
+          {
+            "query": "ifit personal trainer",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-26T07:11:21.629Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "ifit tailor",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-26T07:11:21.629Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "ifit",
+            "position": 2,
+            "popularity": 52,
+            "popularityEstimate": null
+          },
+          {
+            "query": "findmypt find personal trainer",
+            "position": 2,
+            "popularity": null,
+            "popularityEstimate": null
+          },
+          {
+            "query": "getperfectfit",
+            "position": 2,
+            "popularity": null,
+            "popularityEstimate": null
+          }
+        ]
+      }
+    },
+    {
+      "storeId": "1074367771",
+      "name": "Welltory: Stress & Heart Rate",
+      "developer": "Welltory inc",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/e2/81/06e281fb-4591-c49f-683e-6b189e36d8a7/AppIcon_free-0-0-1x_U007ephone-0-1-0-0-85-220.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/welltory-stress-heart-rate/id1074367771?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2016-05-03",
+      "price": 0,
+      "currency": "USD",
+      "rating": 4.74,
+      "ratingCount": 135684,
+      "rank": 87,
+      "previousRank": 91,
+      "movement": 4,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-10-31",
+          "rank": 92
+        },
+        {
+          "day": "2026-11-01",
+          "rank": 80
+        },
+        {
+          "day": "2026-11-02",
+          "rank": 68
+        },
+        {
+          "day": "2026-11-05",
+          "rank": 95
+        },
+        {
+          "day": "2026-11-06",
+          "rank": 100
+        },
+        {
+          "day": "2026-11-07",
+          "rank": 92
+        },
+        {
+          "day": "2026-11-09",
+          "rank": 74
+        },
+        {
+          "day": "2026-11-10",
+          "rank": 88
+        },
+        {
+          "day": "2026-11-14",
+          "rank": 97
+        },
+        {
+          "day": "2026-11-16",
+          "rank": 68
+        },
+        {
+          "day": "2026-11-18",
+          "rank": 100
+        },
+        {
+          "day": "2026-11-19",
+          "rank": 97
+        },
+        {
+          "day": "2026-11-20",
+          "rank": 82
+        },
+        {
+          "day": "2026-11-22",
+          "rank": 57
+        },
+        {
+          "day": "2026-11-23",
+          "rank": 50
+        },
+        {
+          "day": "2026-11-24",
+          "rank": 66
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 91
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 87
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 29000,
+          "mid": 56000,
+          "high": 110000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "range",
+          "low": 150000,
+          "mid": 290000,
+          "high": 580000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "multi-channel",
+      "driverLabel": "Multi-channel",
+      "channels": [
+        "paid",
+        "aso"
+      ],
+      "paidStatus": {
+        "state": "active",
+        "freshness": "stale",
+        "lastCollectedAt": "2026-10-01T16:18:34.306Z"
+      },
+      "paidMomentum": {
+        "active": true,
+        "ramping": false,
+        "dominantFormat": "dynamic",
+        "webSharePct": 0
+      },
+      "paid": {
+        "totalAds": 685,
+        "liveAds": 152,
+        "startedLast7Days": 0,
+        "medianDaysLive": 66,
+        "longestDaysLive": 118,
+        "formats": {
+          "video": 213,
+          "dynamic": 472,
+          "image": 0
+        },
+        "topCallToAction": "Install now",
+        "destinations": {
+          "appStore": 288,
+          "playStore": 395,
+          "web": 2
+        },
+        "weeklyStarts": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "organic": null,
+      "keywords": {
+        "ranked": 3932,
+        "top1": 24,
+        "top3": 255,
+        "top10": 868,
+        "top50": 2216,
+        "best": {
+          "query": "welltory",
+          "position": 1,
+          "popularity": 49,
+          "popularityEstimate": null
+        },
+        "top": [
+          {
+            "query": "welltory",
+            "position": 1,
+            "popularity": 49,
+            "popularityEstimate": null
+          },
+          {
+            "query": "apple watch blood pressure monitor app free",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:17:51.598Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "apple watch health",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:17:51.598Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "apple watch stress tracker",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:17:51.598Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "apps with apple watch heart rate tracking",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:18:11.536Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "storeId": "405075943",
+      "name": "AllTrails: Hike, Bike & Run",
+      "developer": "AllTrails, Inc.",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/82/1d/02821dcc-45de-6ee3-2f9f-5f2f22365e24/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/alltrails-hike-bike-run/id405075943?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2010-12-17",
+      "price": 0,
+      "currency": "USD",
+      "rating": 4.89,
+      "ratingCount": 1043716,
+      "rank": 21,
+      "previousRank": 24,
+      "movement": 3,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-10-28",
+          "rank": 18
+        },
+        {
+          "day": "2026-10-29",
+          "rank": 21
+        },
+        {
+          "day": "2026-10-30",
+          "rank": 20
+        },
+        {
+          "day": "2026-10-31",
+          "rank": 18
+        },
+        {
+          "day": "2026-11-01",
+          "rank": 9
+        },
+        {
+          "day": "2026-11-02",
+          "rank": 10
+        },
+        {
+          "day": "2026-11-05",
+          "rank": 25
+        },
+        {
+          "day": "2026-11-06",
+          "rank": 23
+        },
+        {
+          "day": "2026-11-07",
+          "rank": 19
+        },
+        {
+          "day": "2026-11-09",
+          "rank": 9
+        },
+        {
+          "day": "2026-11-10",
+          "rank": 15
+        },
+        {
+          "day": "2026-11-11",
+          "rank": 20
+        },
+        {
+          "day": "2026-11-12",
+          "rank": 18
+        },
+        {
+          "day": "2026-11-14",
+          "rank": 22
+        },
+        {
+          "day": "2026-11-16",
+          "rank": 11
+        },
+        {
+          "day": "2026-11-18",
+          "rank": 29
+        },
+        {
+          "day": "2026-11-19",
+          "rank": 29
+        },
+        {
+          "day": "2026-11-20",
+          "rank": 30
+        },
+        {
+          "day": "2026-11-22",
+          "rank": 13
+        },
+        {
+          "day": "2026-11-23",
+          "rank": 14
+        },
+        {
+          "day": "2026-11-24",
+          "rank": 18
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 24
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 21
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 230000,
+          "mid": 460000,
+          "high": 900000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "range",
+          "low": 1600000,
+          "mid": 3200000,
+          "high": 6300000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "multi-channel",
+      "driverLabel": "Multi-channel",
+      "channels": [
+        "paid",
+        "aso"
+      ],
+      "paidStatus": {
+        "state": "active",
+        "freshness": "stale",
+        "lastCollectedAt": "2026-10-08T12:41:57.265Z"
+      },
+      "paidMomentum": {
+        "active": true,
+        "ramping": false,
+        "dominantFormat": "dynamic",
+        "webSharePct": 100
+      },
+      "paid": {
+        "totalAds": 513,
+        "liveAds": 177,
+        "startedLast7Days": 0,
+        "medianDaysLive": 76,
+        "longestDaysLive": 350,
+        "formats": {
+          "video": 59,
+          "dynamic": 240,
+          "image": 206
+        },
+        "topCallToAction": "Learn more",
+        "destinations": {
+          "appStore": 0,
+          "playStore": 0,
+          "web": 513
+        },
+        "weeklyStarts": [
+          16,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "organic": null,
+      "keywords": {
+        "ranked": 5701,
+        "top1": 121,
+        "top3": 438,
+        "top10": 1084,
+        "top50": 2767,
+        "best": {
+          "query": "all trails",
+          "position": 1,
+          "popularity": 60,
+          "popularityEstimate": null
+        },
+        "top": [
+          {
+            "query": "all trails",
+            "position": 1,
+            "popularity": 60,
+            "popularityEstimate": null
+          },
+          {
+            "query": "alltrails",
+            "position": 1,
+            "popularity": 53,
+            "popularityEstimate": null
+          },
+          {
+            "query": "hiking trails",
+            "position": 1,
+            "popularity": 49,
+            "popularityEstimate": null
+          },
+          {
+            "query": "all trails app free",
+            "position": 1,
+            "popularity": 48,
+            "popularityEstimate": null
+          },
+          {
+            "query": "trails",
+            "position": 1,
+            "popularity": 48,
+            "popularityEstimate": null
+          }
+        ]
+      }
+    },
+    {
+      "storeId": "6477549878",
+      "name": "Tolan: Your Friendly Guide",
+      "developer": "Portola",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/0c/17/ff0c17c2-5239-11c6-8aea-4d8241392850/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/tolan-your-friendly-guide/id6477549878?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2024-06-19",
+      "price": 0,
+      "currency": "USD",
+      "rating": 4.78,
+      "ratingCount": 193708,
+      "rank": 27,
+      "previousRank": 30,
+      "movement": 3,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-10-28",
+          "rank": 37
+        },
+        {
+          "day": "2026-10-29",
+          "rank": 39
+        },
+        {
+          "day": "2026-10-30",
+          "rank": 31
+        },
+        {
+          "day": "2026-10-31",
+          "rank": 23
+        },
+        {
+          "day": "2026-11-01",
+          "rank": 15
+        },
+        {
+          "day": "2026-11-02",
+          "rank": 13
+        },
+        {
+          "day": "2026-11-05",
+          "rank": 12
+        },
+        {
+          "day": "2026-11-06",
+          "rank": 10
+        },
+        {
+          "day": "2026-11-07",
+          "rank": 6
+        },
+        {
+          "day": "2026-11-09",
+          "rank": 8
+        },
+        {
+          "day": "2026-11-10",
+          "rank": 14
+        },
+        {
+          "day": "2026-11-11",
+          "rank": 21
+        },
+        {
+          "day": "2026-11-12",
+          "rank": 17
+        },
+        {
+          "day": "2026-11-14",
+          "rank": 15
+        },
+        {
+          "day": "2026-11-16",
+          "rank": 9
+        },
+        {
+          "day": "2026-11-18",
+          "rank": 23
+        },
+        {
+          "day": "2026-11-19",
+          "rank": 20
+        },
+        {
+          "day": "2026-11-20",
+          "rank": 18
+        },
+        {
+          "day": "2026-11-22",
+          "rank": 17
+        },
+        {
+          "day": "2026-11-23",
+          "rank": 17
+        },
+        {
+          "day": "2026-11-24",
+          "rank": 27
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 30
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 27
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 97000,
+          "mid": 190000,
+          "high": 380000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "range",
+          "low": 210000,
+          "mid": 410000,
+          "high": 810000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "multi-channel",
+      "driverLabel": "Multi-channel",
+      "channels": [
+        "paid",
+        "organic",
+        "aso"
+      ],
+      "paidStatus": {
+        "state": "active",
+        "freshness": "stale",
+        "lastCollectedAt": "2026-10-01T18:44:51.423Z"
+      },
+      "paidMomentum": {
+        "active": true,
+        "ramping": false,
+        "dominantFormat": "video",
+        "webSharePct": 74
+      },
+      "paid": {
+        "totalAds": 559,
+        "liveAds": 271,
+        "startedLast7Days": 0,
+        "medianDaysLive": 66,
+        "longestDaysLive": 86,
+        "formats": {
+          "video": 327,
+          "dynamic": 232,
+          "image": 0
+        },
+        "topCallToAction": "Download",
+        "destinations": {
+          "appStore": 143,
+          "playStore": 0,
+          "web": 416
+        },
+        "weeklyStarts": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "organic": {
+        "matchedPosts": 2,
+        "views": 1233758,
+        "medianViews": 616879,
+        "bestPostViews": 936016,
+        "postsOverMillion": 0,
+        "newestPublishedAt": "2025-07-10T00:00:00.000Z",
+        "platforms": {
+          "TikTok": 2
+        },
+        "matchedBy": "website_domain"
+      },
+      "keywords": {
+        "ranked": 2682,
+        "top1": 41,
+        "top3": 178,
+        "top10": 613,
+        "top50": 1941,
+        "best": {
+          "query": "tolan",
+          "position": 1,
+          "popularity": 58,
+          "popularityEstimate": null
+        },
+        "top": [
+          {
+            "query": "tolan",
+            "position": 1,
+            "popularity": 58,
+            "popularityEstimate": null
+          },
+          {
+            "query": "ai alien friend",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:10:23.727Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "ai buddy",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:10:40.005Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "ai chat buddy",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:10:49.394Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "ai chat therapy",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:10:49.394Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "storeId": "387771637",
+      "name": "Nike Run Club: Running Coach",
+      "developer": "Nike, Inc",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/69/99/a8699996-b454-c72e-9736-496143873495/AppIconProd-0-0-1x_U007ephone-0-1-0-85-220.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/nike-run-club-running-coach/id387771637?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2010-09-06",
+      "price": 0,
+      "currency": "USD",
+      "rating": 4.77,
+      "ratingCount": 420785,
+      "rank": 68,
+      "previousRank": 71,
+      "movement": 3,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-10-28",
+          "rank": 54
+        },
+        {
+          "day": "2026-10-29",
+          "rank": 56
+        },
+        {
+          "day": "2026-10-30",
+          "rank": 61
+        },
+        {
+          "day": "2026-10-31",
+          "rank": 66
+        },
+        {
+          "day": "2026-11-01",
+          "rank": 56
+        },
+        {
+          "day": "2026-11-02",
+          "rank": 48
+        },
+        {
+          "day": "2026-11-05",
+          "rank": 52
+        },
+        {
+          "day": "2026-11-06",
+          "rank": 52
+        },
+        {
+          "day": "2026-11-07",
+          "rank": 59
+        },
+        {
+          "day": "2026-11-09",
+          "rank": 52
+        },
+        {
+          "day": "2026-11-10",
+          "rank": 53
+        },
+        {
+          "day": "2026-11-11",
+          "rank": 57
+        },
+        {
+          "day": "2026-11-12",
+          "rank": 63
+        },
+        {
+          "day": "2026-11-14",
+          "rank": 73
+        },
+        {
+          "day": "2026-11-16",
+          "rank": 57
+        },
+        {
+          "day": "2026-11-18",
+          "rank": 64
+        },
+        {
+          "day": "2026-11-19",
+          "rank": 72
+        },
+        {
+          "day": "2026-11-20",
+          "rank": 75
+        },
+        {
+          "day": "2026-11-22",
+          "rank": 65
+        },
+        {
+          "day": "2026-11-23",
+          "rank": 57
+        },
+        {
+          "day": "2026-11-24",
+          "rank": 62
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 71
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 68
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 150000,
+          "mid": 290000,
+          "high": 580000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "below_floor",
+          "ceiling": 5000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "aso-moat",
+      "driverLabel": "ASO search moat",
+      "channels": [
+        "aso"
+      ],
+      "paidStatus": {
+        "state": "none_found_stale",
+        "freshness": "stale",
+        "lastCollectedAt": "2026-11-18T17:48:57.745Z"
+      },
+      "paidMomentum": {
+        "active": false,
+        "ramping": false,
+        "dominantFormat": null,
+        "webSharePct": null
+      },
+      "paid": null,
+      "organic": null,
+      "keywords": {
+        "ranked": 4339,
+        "top1": 50,
+        "top3": 307,
+        "top10": 887,
+        "top50": 2064,
+        "best": {
+          "query": "nike run club app",
+          "position": 1,
+          "popularity": 58,
+          "popularityEstimate": null
+        },
+        "top": [
+          {
+            "query": "nike run club app",
+            "position": 1,
+            "popularity": 58,
+            "popularityEstimate": null
+          },
+          {
+            "query": "nike run",
+            "position": 1,
+            "popularity": 48,
+            "popularityEstimate": null
+          },
+          {
+            "query": "nike run club",
+            "position": 1,
+            "popularity": 48,
+            "popularityEstimate": null
+          },
+          {
+            "query": "nrc",
+            "position": 1,
+            "popularity": 48,
+            "popularityEstimate": null
+          },
+          {
+            "query": "러닝",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "high",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:04:35.252Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "storeId": "712286167",
+      "name": "Pedometer++",
+      "developer": "Cross Forward Consulting, LLC",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/e3/b2/c2e3b2f0-15d8-f2ef-e25d-3f83a6ca46d3/Pedometer_U002b_U002b-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/128x128bb.jpg",
+      "appUrl": "https://apps.apple.com/us/app/pedometer/id712286167?uo=2",
+      "categoryId": "6013",
+      "categoryName": "Health & Fitness",
+      "releaseDate": "2013-10-01",
+      "price": 0,
+      "currency": "USD",
+      "rating": 4.79,
+      "ratingCount": 185843,
+      "rank": 93,
+      "previousRank": 96,
+      "movement": 3,
+      "status": "ranked",
+      "inCatalogue": true,
+      "history": [
+        {
+          "day": "2026-10-28",
+          "rank": 78
+        },
+        {
+          "day": "2026-10-29",
+          "rank": 77
+        },
+        {
+          "day": "2026-10-30",
+          "rank": 82
+        },
+        {
+          "day": "2026-10-31",
+          "rank": 87
+        },
+        {
+          "day": "2026-11-01",
+          "rank": 74
+        },
+        {
+          "day": "2026-11-02",
+          "rank": 71
+        },
+        {
+          "day": "2026-11-05",
+          "rank": 86
+        },
+        {
+          "day": "2026-11-06",
+          "rank": 87
+        },
+        {
+          "day": "2026-11-07",
+          "rank": 89
+        },
+        {
+          "day": "2026-11-09",
+          "rank": 77
+        },
+        {
+          "day": "2026-11-10",
+          "rank": 79
+        },
+        {
+          "day": "2026-11-11",
+          "rank": 91
+        },
+        {
+          "day": "2026-11-12",
+          "rank": 84
+        },
+        {
+          "day": "2026-11-14",
+          "rank": 87
+        },
+        {
+          "day": "2026-11-16",
+          "rank": 71
+        },
+        {
+          "day": "2026-11-18",
+          "rank": 86
+        },
+        {
+          "day": "2026-11-19",
+          "rank": 99
+        },
+        {
+          "day": "2026-11-20",
+          "rank": 91
+        },
+        {
+          "day": "2026-11-22",
+          "rank": 82
+        },
+        {
+          "day": "2026-11-23",
+          "rank": 83
+        },
+        {
+          "day": "2026-11-24",
+          "rank": 91
+        },
+        {
+          "day": "2026-11-25",
+          "rank": 96
+        },
+        {
+          "day": "2026-11-26",
+          "rank": 93
+        }
+      ],
+      "estimates": {
+        "monthlyInstalls": {
+          "kind": "range",
+          "low": 93000,
+          "mid": 180000,
+          "high": 360000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "monthlyRevenue": {
+          "kind": "range",
+          "low": 21000,
+          "mid": 42000,
+          "high": 82000,
+          "observedAt": "2026-11-25T00:00:00.000Z"
+        },
+        "currency": "USD"
+      },
+      "driver": "aso-moat",
+      "driverLabel": "ASO search moat",
+      "channels": [
+        "aso"
+      ],
+      "paidStatus": {
+        "state": "none_found_stale",
+        "freshness": "stale",
+        "lastCollectedAt": "2026-11-16T17:34:12.435Z"
+      },
+      "paidMomentum": {
+        "active": false,
+        "ramping": false,
+        "dominantFormat": null,
+        "webSharePct": null
+      },
+      "paid": null,
+      "organic": null,
+      "keywords": {
+        "ranked": 1421,
+        "top1": 44,
+        "top3": 132,
+        "top10": 332,
+        "top50": 819,
+        "best": {
+          "query": "pedometer ++",
+          "position": 1,
+          "popularity": 52,
+          "popularityEstimate": null
+        },
+        "top": [
+          {
+            "query": "pedometer ++",
+            "position": 1,
+            "popularity": 52,
+            "popularityEstimate": null
+          },
+          {
+            "query": "pedometer",
+            "position": 1,
+            "popularity": 50,
+            "popularityEstimate": null
+          },
+          {
+            "query": "apple pedometer",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "very_low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-22T07:17:51.598Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "apple watch pedometer",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": {
+              "tier": "low",
+              "method": "peekpanda_popularity_estimate",
+              "country": "us",
+              "estimatedAt": "2026-11-23T07:02:50.139Z",
+              "modelTrainedAt": "2026-11-22T07:01:58.590Z"
+            }
+          },
+          {
+            "query": "bedometer",
+            "position": 1,
+            "popularity": null,
+            "popularityEstimate": null
+          }
+        ]
+      }
+    }
+  ]
+}

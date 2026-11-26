@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>iOS Chart Signal Audit — Why Are Apps Climbing the App Store Charts?</title>
+  <meta
+    name="description"
+    content="Open-source CLI and browser explorer that joins Apple App Store chart movers with paid-ad, organic, and ASO keyword signals from PeekPanda."
+  />
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <div class="shell">
+    <header class="hero">
+      <div class="hero-top">
+        <span class="eyebrow">Open-source iOS ASO &amp; growth tool · Zero dependencies</span>
+        <nav class="top-links" aria-label="Project links">
+          <a href="https://github.com/fdarkaou/ios-chart-signal-audit">GitHub</a>
+          <a href="https://peekpanda.com">PeekPanda</a>
+          <a href="https://peekpanda.com/docs/apple-charts">API Docs</a>
+        </nav>
+      </div>
+      <h1>iOS Chart Signal Audit</h1>
+      <p class="subtitle">
+        A raw App Store chart jump tells you <em>what</em> climbed, never <em>why</em>.
+        This tool joins stored Apple charts (<code>GET /v1/charts</code>) with batch paid-ad, organic, and US ASO keyword signals
+        (<code>GET /v1/market/signals</code>) from <a href="https://peekpanda.com">PeekPanda</a> in <strong>2 API calls</strong>,
+        classifying every mover while keeping uncollected evidence distinct from zero.
+      </p>
+      <div class="meta-bar" id="snapshot-meta">
+        <span>Loading live sample snapshot…</span>
+      </div>
+    </header>
+
+    <section class="kpi-grid" id="kpi-grid" aria-label="Driver breakdown"></section>
+
+    <section class="panel controls-panel">
+      <div class="controls-row">
+        <div class="search-wrap">
+          <label for="search-input" class="sr-only">Search apps, developers, or top keywords</label>
+          <input
+            id="search-input"
+            type="search"
+            placeholder="Filter by app, developer, store ID, or top keyword…"
+          />
+        </div>
+
+        <div class="select-group">
+          <label for="driver-select">Driver</label>
+          <select id="driver-select">
+            <option value="all">All drivers</option>
+            <option value="multi-channel">Multi-channel</option>
+            <option value="paid-push">Paid-ad push</option>
+            <option value="organic-surge">Organic surge</option>
+            <option value="aso-moat">ASO search moat</option>
+            <option value="unexplained">Unexplained move</option>
+            <option value="uncollected">Uncollected</option>
+          </select>
+        </div>
+
+        <div class="select-group">
+          <label for="sort-select">Sort</label>
+          <select id="sort-select">
+            <option value="movement">Biggest climb</option>
+            <option value="rank">Best chart rank</option>
+            <option value="liveAds">Most live paid ads</option>
+            <option value="organicViews">Most organic views</option>
+            <option value="keywords">Most US ASO top-10s</option>
+          </select>
+        </div>
+
+        <div class="upload-group">
+          <label class="btn btn-secondary" for="json-upload">Load report JSON</label>
+          <input id="json-upload" type="file" accept="application/json,.json" hidden />
+          <label class="btn btn-ghost" for="prev-upload" title="Optional: compare against an earlier saved snapshot">Compare prev JSON</label>
+          <input id="prev-upload" type="file" accept="application/json,.json" hidden />
+        </div>
+      </div>
+
+      <div id="diff-banner" class="diff-banner" hidden></div>
+    </section>
+
+    <section class="panel table-panel">
+      <div class="table-wrap">
+        <table id="results-table">
+          <thead>
+            <tr>
+              <th class="num">Rank</th>
+              <th class="num">Move</th>
+              <th>App</th>
+              <th>Driver</th>
+              <th>Paid Ads</th>
+              <th>Organic (matched)</th>
+              <th>US ASO Keywords</th>
+              <th>Est. Installs (WW)</th>
+            </tr>
+          </thead>
+          <tbody id="results-body">
+            <tr>
+              <td colspan="8" class="empty-cell">Loading sample run…</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="panel builder-panel">
+      <div class="section-head">
+        <h2>Run on your own chart slice</h2>
+        <p>
+          Runs locally on Node 18+ with zero packages. Uses your <a href="https://peekpanda.com">PeekPanda</a> API key
+          (stored in <code>PEEKPANDA_API_KEY</code> or <code>~/.config/peekpanda/api_key</code>) and consumes only 2 API calls per run.
+        </p>
+      </div>
+      <div class="builder-grid">
+        <label>
+          Storefront
+          <select id="b-country">
+            <option value="us" selected>United States (us)</option>
+            <option value="gb">United Kingdom (gb)</option>
+            <option value="fr">France (fr)</option>
+            <option value="de">Germany (de)</option>
+            <option value="br">Brazil (br)</option>
+            <option value="be">Belgium (be)</option>
+            <option value="jp">Japan (jp)</option>
+            <option value="kr">South Korea (kr)</option>
+            <option value="cn">China (cn)</option>
+            <option value="ru">Russia (ru)</option>
+          </select>
+        </label>
+        <label>
+          Category
+          <select id="b-category">
+            <option value="health-and-fitness" selected>Health &amp; Fitness (6013)</option>
+            <option value="all">Overall (all)</option>
+            <option value="productivity">Productivity (6007)</option>
+            <option value="photo-and-video">Photo &amp; Video (6008)</option>
+            <option value="finance">Finance (6015)</option>
+            <option value="lifestyle">Lifestyle (6012)</option>
+            <option value="education">Education (6017)</option>
+            <option value="entertainment">Entertainment (6016)</option>
+            <option value="social-networking">Social Networking (6005)</option>
+            <option value="utilities">Utilities (6002)</option>
+            <option value="games">Games (6014)</option>
+          </select>
+        </label>
+        <label>
+          Chart type
+          <select id="b-chart">
+            <option value="free" selected>Free</option>
+            <option value="paid">Paid</option>
+            <option value="grossing">Grossing (rank)</option>
+          </select>
+        </label>
+        <label>
+          View
+          <select id="b-view">
+            <option value="gainers" selected>Gainers</option>
+            <option value="new-entrants">New entrants</option>
+            <option value="new-releases">New releases</option>
+            <option value="rankings">Rankings</option>
+            <option value="losers">Losers</option>
+          </select>
+        </label>
+        <label>
+          Format
+          <select id="b-format">
+            <option value="md" selected>Markdown</option>
+            <option value="json">JSON (for this page)</option>
+            <option value="csv">CSV</option>
+          </select>
+        </label>
+      </div>
+      <div class="code-box">
+        <pre><code id="cli-command"></code></pre>
+        <button id="copy-cmd" class="btn btn-primary" type="button">Copy</button>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <p>
+        <strong>Data honesty:</strong> iOS App Store only (no Android coverage). Grossing is a chart position, not dollars.
+        Download and revenue figures are modelled worldwide monthly App Store estimates from
+        <a href="https://peekpanda.com">PeekPanda</a>, never measured data. Organic matches are suggestions, not proof of ownership.
+        US ASO keyword popularity is directional (0–100), not search volume. Streams that were never collected display as <code>—</code>, never zero.
+      </p>
+      <p class="footer-sub">
+        MIT licensed · <a href="https://github.com/fdarkaou/ios-chart-signal-audit">Source on GitHub</a> ·
+        Built with stored iOS competitor case files from <a href="https://peekpanda.com">PeekPanda</a>.
+      </p>
+    </footer>
+  </div>
+
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

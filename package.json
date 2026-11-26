@@ -1,0 +1,27 @@
+{
+  "name": "ios-chart-signal-audit",
+  "version": "1.0.0",
+  "description": "Audit why iOS apps are moving on Apple App Store charts by joining PeekPanda chart snapshots with batch paid-ad, organic and ASO keyword signals.",
+  "type": "module",
+  "bin": {
+    "ios-chart-signal-audit": "./bin/chart-signals.mjs"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "start": "node bin/chart-signals.mjs"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "ios",
+    "app-store",
+    "aso",
+    "app-store-charts",
+    "competitor-intelligence",
+    "mobile-growth",
+    "peekpanda",
+    "cli"
+  ],
+  "license": "MIT"
+}
